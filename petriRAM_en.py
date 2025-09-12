@@ -988,6 +988,7 @@ def plot_ram_summary(df_long, bins=20, savepath="summary_2x2_hist_box.pdf"):
 
     # Figure
     fig, axes = plt.subplots(2, 2, figsize=(10, 6))
+    #fig, axes = plt.subplots(2, 2, figsize=(5, 7))
     ax1, ax2, ax3, ax4 = axes.flatten()
 
     # (1) Reliability histogram
