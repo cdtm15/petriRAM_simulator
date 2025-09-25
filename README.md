@@ -16,7 +16,7 @@ The tool enables researchers and practitioners to:
 
 Clone the repository and install the required dependencies:
 ```bash
-git clone https://github.com/USERNAME/PetriRAM.git
+git clone https://github.com/cdtm15/petriRAM_simulator.git
 cd PetriRAM
 ```
 Dependencies include:
